@@ -9,6 +9,9 @@ The dashboard provides an advanced, matrix-based analytical view of sales data a
 
 ---
 
+--<img src="dac_depo_dashboard.png" height=600px width="1250px">-
+
+
 ## 🧩 Data Model Overview
 
 **Fact Table:**  
